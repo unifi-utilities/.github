@@ -14,7 +14,7 @@ Always looking for maintainers who can dedicate a small amount of their time to 
 ## Community
 [![Discord](https://img.shields.io:/discord/939817841107034172?label=Discord&logo=Discord&style=for-the-badge "Discord")](https://discord.gg/8zqrQJFghg)
 
-The discord is small but lively, if you need in person help you are likely to find it there!  There is a dedicated group of people who volunteer there time to keep the project flourishing.
+The discord is small but lively, if you need in person help you are likely to find it there!  There is a dedicated group of people who volunteer their time to keep the project flourishing.
 
 ## Rules
 

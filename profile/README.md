@@ -2,11 +2,6 @@
 
 Since the project has grown so far beyond just me I determined it is in the best interest of the project to no longer be singularly associated with my name.  There have been substantial contributions by many.  Also, this will allow us to organize different repo's for different UniFi devices
 
-## Contributing
-
-PRs accepted in all repos!  
-Always looking for maintainers who can dedicate a small amount of their time to reviewing PR's and other administrative tasks.  This project is a great place to get your feet wet if you are new to OSS! 
-Also, you can move your repo here for some free attention if you wish, contact boostchicken.
 
 ## Community
 [![Discord](https://img.shields.io:/discord/939817841107034172?label=Discord&logo=Discord&style=for-the-badge "Discord")](https://discord.gg/8zqrQJFghg)
@@ -16,10 +11,10 @@ The discord is small but lively, if you need in person help you are likely to fi
 ## Rules
 
 This project was created in peace and love, is free, and will always remain free. Let's keep that spirit alive.  
-* Please treat everyone in the community as an equal. 
-* People from all skill levels and backgrounds find use of this project and it is our goal to mentor and grow people's skills.  
-* Constructive criticism is encouraged, all other types are not.  
-* Please take time to consider how you communicate with others.
+1. Please treat everyone in the community as an equal. 
+1. People from all skill levels and backgrounds find use of this project and it is our goal to mentor and grow people's skills.  
+1. Constructive criticism is encouraged, all other types are not.  
+1. Please take time to consider how you communicate with others.
 
 ## Words of Wisdom 
 
